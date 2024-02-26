@@ -1,6 +1,6 @@
 export const profile = {
-  name: "Sero",
-  role: "Software Engineer",
+  name: "Vinay Rajagopal Menon",
+  role: "Senior Software Engineer",
   bio: "I'm a software engineer that loves building products and teaching others how to do the same.",
   imageUrl: "https://i.imgur.com/2m4XIqN.png",
   address: "0xc0163E58648b247c143023CFB26C2BAA42C9d9A9",
@@ -12,24 +12,14 @@ export const profile = {
     },
     {
       name: "GitHub",
-      url: "https://github.com/Seroxdesign",
+      url: "https://github.com/vrm-hub",
       icon: "",
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/sero-346b85202/",
+      url: "https://www.linkedin.com/in/vinay-r-menon/",
       icon: "",
     },
-    {
-      name: "Blog",
-      url: "https://blog.serotonindesigns.com",
-      icon: "",
-    },
-    {
-      name: 'Podcast',
-      url: 'https://open.spotify.com/show/2HfqI2dFN85uLLFwGqEk0d?si=f918a9d9ea6f4d38',
-      icon: ''
-    }
   ],
   projects: [
     {
